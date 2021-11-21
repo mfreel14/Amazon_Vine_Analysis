@@ -13,7 +13,6 @@ https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Video_Games_v1
 
 # Challenge Summary
 
-
 ## Amazon Vine Analysis - Results
 
 How many Vine reviews and non-Vine reviews were there?
