@@ -8,6 +8,9 @@ AWS options sample datasets containing reviews for specific products.  For this 
 -  Data Files: 
 https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Video_Games_v1_00.tsv.gz
 
+- Schema:
+challenge_schema.sql
+
 -  Software/Languages: Pyspark, Pandas, SQL, AWS, Google Collab
 
 
