@@ -2,7 +2,7 @@
 
 ## Project Overview - Amazon Vine Analysis
 
-Through AWS there is access to approximately 50 datasets. Each one contains reviews of a specific product.  The product picked for this analysis was the "Video Games" category.  With the data set we'll use PySpark to perform the ETL process to extract the dataset, transform the data, connect to an AWS RDS instance, and load the transformed data into pgAdmin. Next, we’ll use PySpark to determine if there is any bias toward favorable reviews from Vine members in the dataset. The  summary of the analysis will be submitted to the SellBy stakeholders.
+AWS options sample datasets containing reviews for specific products.  The product picked for this analysis was the "Video Games" category.  With the data set we'll use PySpark to perform the ETL process to extract the dataset, transform the data, connect to an AWS RDS instance, and load the transformed data into pgAdmin. Next, we’ll use PySpark to determine if there is any bias toward favorable reviews from Vine members in the dataset. The  summary of the analysis will be submitted to the SellBy stakeholders.
 
 ## Resources
 -  Data Files: https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Video_Games_v1_00.tsv.gz
