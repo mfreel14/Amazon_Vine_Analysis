@@ -9,7 +9,7 @@ AWS options sample datasets containing reviews for specific products.  For this 
 https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Video_Games_v1_00.tsv.gz
 
 - Schema:
-challenge_schema.sql
+https://github.com/mfreel14/Amazon_Vine_Analysis/blob/ad077da2cdc6d8f190a368d24ef8f171c73f4b51/challenge_schema.sql
 
 -  Software/Languages: Pyspark, Pandas, SQL, AWS, Google Collab
 
