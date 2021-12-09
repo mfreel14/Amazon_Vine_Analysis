@@ -1,0 +1,3 @@
+Sample sample sample sample sample
+
+This is a test to see how many times the word sample appears in this text.
